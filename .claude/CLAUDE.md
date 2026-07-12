@@ -18,6 +18,7 @@ Website giới thiệu bản thân của Vũ Thị Hương Ly, xây bằng Vue 3
 - `src/components/HeroSection.vue` — giới thiệu bản thân
 - `src/components/SkillsSection.vue` — kỹ năng & học vấn
 - `src/components/ExperienceSection.vue` — kinh nghiệm & dự án
+- `src/components/InterestsSection.vue` — sở thích ngoài giờ làm
 - `src/components/ContactSection.vue` — liên hệ
 - `src/style.css` — biến CSS toàn cục (dark theme), section nào cũng dùng `.container`
 
